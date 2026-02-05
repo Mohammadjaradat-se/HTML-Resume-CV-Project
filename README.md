@@ -2,6 +2,8 @@
 
 This project is a **static resume (CV) web page** built using **HTML only** as part of a **Bootcamp training assignment**.
 
+You can view the project from here --> https://mohammadjaradat-se.github.io/HTML-Resume-CV-Project/
+
 ## Project Overview
 The project demonstrates how to structure a personal resume using basic HTML elements.  
 It includes multiple sections such as profile information, education, experience, projects, skills, and languages.
